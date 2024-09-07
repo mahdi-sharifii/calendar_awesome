@@ -4,7 +4,7 @@ A customizable calendar widget (Jalali & Gregorian) for Flutter
 
 
 
-![](https://github.com/mahdi-sharifii/calendar_awesome/blob/main/example/screenshots/screenshots2.gif)
+![Image](https://github.com/mahdi-sharifii/calendar_awesome/blob/main/example/screenshots/screenshots2.gif)
 
 
 
